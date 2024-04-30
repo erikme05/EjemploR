@@ -15,4 +15,24 @@ git commit -m "Este es el proceso que tenemos que aprendernos"
 ```
 Y si quieres poner un link tendréis que poner [nombre que aparecerá](hhttps://leonardo.ai/fac/)
 ![Aquí ponemos una pequeña descripción de la imagen para las personas que no pueden ver y para que el buscador nos posicione mejor]
+
 ![image](https://github.com/erikme05/EjemploR/assets/167762795/e5d2e953-00cd-4b57-92f6-d4d3e5af0326)
+
+si quiero crear una lista puedo usar
+- esto
+- ooo
+
+o:
+* esto
+* ooo
+
+O:
++el plus
+si quiero que sea una lista ordenada
+1.uno
+2.dos
+3.tres
+
+esto lo desarrollaré en una nota al pie [^1]
+
+[^1]que desarrollaré aquí
